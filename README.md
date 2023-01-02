@@ -20,11 +20,7 @@ and I had 65 features to work with. Some of the features were:
 5. PBIT
 6. PAT
 7. Current assets
-8. Latest fixed assets ratio
-:
-:
-:
-and more
+8. Latest fixed assets ratio and 57 more
 
 ---
 
